@@ -1,3 +1,1 @@
-# higher-order-functions
-
-## foreach - filter- map - sort -reduce
+# foreach - filter - map - sort - reduce
