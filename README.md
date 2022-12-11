@@ -1,1 +1,6 @@
-# foreach - filter - map - sort - reduce
+# Implementation for the following functions:
+## - forEach
+## - filter
+## - map
+## - sort
+## - reduce
