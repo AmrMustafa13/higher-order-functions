@@ -1,6 +1,6 @@
 # Implementation for the following functions:
-## - forEach
-## - filter
-## - map
-## - sort
-## - reduce
+- forEach
+- filter
+- map
+- sort
+- reduce
